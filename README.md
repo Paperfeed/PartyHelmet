@@ -1,7 +1,7 @@
 ## PartyHelmet
 Arduino Sketch for a party helmet
 
-![Helmet](/img/helmet.jpg)
+![Helmet](/helmet.jpg)
 
 Has multiple modes:
 - NAZI - Randomly switch between all modes
