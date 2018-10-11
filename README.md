@@ -1,4 +1,4 @@
-# PartyHelmet
+## PartyHelmet
 Arduino Sketch for a party helmet
 
 ![Helmet](/img/helmet.jpg)
@@ -15,7 +15,7 @@ Has multiple modes:
 
 Make sure you connect everything correctly. You can see/change which pins connect where in the sketch.
 
-##Requires:
+### Requires:
 - FastLED library
 - 4Digit display + SevenSegment Library
 - Ultrasound sensor
